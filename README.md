@@ -20,6 +20,11 @@ Java
 
 4. Now, in the terminal you are required to enter a email address. Enter a email address and hit enter... let the program do the job of checking whether the email address entered by you is a valid gmail address or not and you will get some messages accordingly signifying whether they are valid gmail address or not. 
 
+## Sample Output 
+
+
+<img width="994" alt="Screenshot 2022-03-20 at 11 05 10 PM" src="https://user-images.githubusercontent.com/70855191/159175105-592b6ce8-b0fd-4bc6-a485-ddc247f1763b.png">
+
 
 
 
